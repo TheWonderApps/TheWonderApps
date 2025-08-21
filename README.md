@@ -86,9 +86,8 @@ Whether you're looking to streamline your workflow, enhance your development pro
 ### 🔗 Connect With Us
 
 - 📺 **YouTube**: [@thewonderapps](https://www.youtube.com/@thewonderapps)
-- 🌐 **Chrome Web Store**: [Our Published Extensions](https://chromewebstore.google.com/)
 - 💬 **Let's Collaborate**: Ready to discuss your next project?
 
 ---
 
-*© 2024 TheWonderApps. Transforming ideas into reality, one app at a time.*
+*© 2024 TheWonderApps. Transforming ideas into reality.*
